@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: dev-container
-        image: grc.io/qwiklabs-gcp-02-7d9c7dabb737/sample-app:v1.0
+        image: grc.io/qwiklabs-gcp-02-7d9c7dabb737/sample-app:v2.0
         ports:
         - containerPort: 8080
